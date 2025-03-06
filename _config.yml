@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: "*.json"
+    values:
+      content_type: "application/json"
