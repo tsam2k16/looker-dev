@@ -1,20 +1,12 @@
 {
-  "name": "Radar Chart",
-  "organization": "Your Organization",
-  "description": "A radar chart visualization with 2-4 metrics",
-  "logoUrl": "",
-  "organizationUrl": "",
-  "supportUrl": "",
-  "privacyPolicyUrl": "",
-  "termsOfServiceUrl": "",
-  "packageUrl": "",
+  "name": "Looker Radar Chart",
+  "organization": "",
+  "description": "A radar chart visualization",
   "devMode": true,
   "components": [
     {
       "id": "radar-chart",
-      "name": "Radar Chart",
-      "iconUrl": "",
-      "description": "Radar chart for 2-4 metrics"
+      "name": "Radar Chart"
     }
   ]
 }
